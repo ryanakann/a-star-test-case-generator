@@ -1,6 +1,8 @@
 # A* Test Case Generator
 Designed for CS 4710 - AI Spring 2021 for Mark Floryan
 
+https://markfloryan.github.io/AI/readme.html
+
 ## How To Use
 1) Select your desired width, height, and a tile scale (recommend starting with 1.0)
 2) Click Generate/Reset
